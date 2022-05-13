@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/rarepress/rariverse#readme",
   "dependencies": {
-    "rarepress": "^0.1.5"
+    "rarepress": "^0.1.7"
   }
 }
